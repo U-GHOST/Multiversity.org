@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-# Multiverse.org
+# Multiversity.org
 
 from flask import (
 	Flask,
